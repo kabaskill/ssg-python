@@ -1,1 +1,1 @@
-python3 src/main.py "https://github.com/kabaskill/ssg-python"
+python3 src/main.py "https://github.com/kabaskill/ssg-python/docs"
